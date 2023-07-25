@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/ConstanzaJG](https://github.com/ConstanzaJG)
 
-- 📫 Cómo contactarme **constanza@kranio.io**
-
 - 📄 Conoce mis experiencias [linkedin.com/in/constanzajerez](linkedin.com/in/constanzajerez)
 
 - ⚡ Fun fact **Viviendo el presente**
@@ -43,4 +41,6 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=constanzajg&show_icons=true&locale=en&layout=compact" alt="constanzajg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=constanzajg&show_icons=true&locale=en" alt="constanzajg" /></p>
+
+- 📫 Cómo contactarme **constanzajerez89@gmail.com**
 

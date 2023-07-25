@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="izquierda">
 <a href="https://linkedin.com/in/linkedin.com/in/constanzajerez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/constanzajerez" height="30" ancho="40" /></a>
-`<a href="https://fb.com/cony.wolff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cony.wolff" height="30" width="40" /></a>
-<a href="https://instagram.com/sorceresswolf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sorceresswolf" height="30" width="40" /></a>`
 <a href="https://discord.gg/ConyWolf#2908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ConyWolf#2908" height="30" width="40" /></a>
 </p>
 

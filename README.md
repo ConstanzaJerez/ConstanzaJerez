@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hola 👋, soy Constanza Jerez Gutiérrez</h1>
-<h3 align="center">Un apasionado desarrollador frontend de Chile</h3>
+<h3 align="center">Un apasionado desarrollador de Chile</h3>
 
 <p align="izquierda"> <img src="https://komarev.com/ghpvc/?username=constanzajg&label=Profile%20views&color=0e75b6&style=flat" alt="constanzajg" /> </p>
 

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Constanza Jerez Gutierrez</h1>
-<h3 align="center">A passionate frontend developer from Chile</h3>
+<h3 align="center">A passionate developer from Chile</h3>
 
 - 🔭 I’m currently working on [Kranio](https://www.kranio.io/)
 

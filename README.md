@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 Actualmente estoy trabajando en [Kranio](https://www.kranio.io/)
 
-- 🌱 Actualmente estoy aprendiendo **Frontend, JS,reactJS**
+- 🌱 Actualmente estoy aprendiendo **JavaScript, ReactJS, NodeJS**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/ConstanzaJG](https://github.com/ConstanzaJG)
 
